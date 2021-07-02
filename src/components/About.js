@@ -11,9 +11,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I am a Software Engineer
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+          I am a solution-oriented engineer who is always striving for the optimization of the task at hand. The delicate balance of quality and OTD is something I am familiar with. Using the agile methodology to implement features along with various Git workflows and tools, I am able to deliver the best possible product. 
           </p>
           <div className="flex justify-center">
             <a
