@@ -1,11 +1,11 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Quiz App",
+    subtitle: "JavaScript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "This app is a quiz app built with HTML5, CSS & Javascript.  It cycles through ten questions and reports the user's score at the end, all without a page reload!",
+    image: "./quizappcover.png",
+    link: "https://paolourciullo.github.io/quizapp/",
   },
   {
     title: "React Tracks",
